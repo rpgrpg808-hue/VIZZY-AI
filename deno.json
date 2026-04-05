@@ -1,4 +1,4 @@
 {
   "nodeModulesDir": "auto",
-  "unstable": ["node-builtins"]
+  "unstable": ["node-builtins", "cjs"]
 }
